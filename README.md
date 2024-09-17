@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishal panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal panwar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-panwar-6ba11124a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal panwar" height="30" width="40" /></a>
 <a href="https://instagram.com/thakur_sa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakur_sa24" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vishal4panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vishal4panwar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/vishal4panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vishal4panwar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishal_panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishal_panwar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vishalpanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishalpanwar" height="30" width="40" /></a>
 </p>
