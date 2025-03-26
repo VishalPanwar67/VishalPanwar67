@@ -1,47 +1,68 @@
-<h1 align="center">Hi, I'm Vishal Panwar</h1>
-<h3 align="center">A passionate MERN Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=tokyonight&center=true&vCenter=true&width=400&lines=Hi,+I’m+Vishal+Panwar;Full-Stack+Developer;Software+Developer"/>
+</p>
+
+*Full-Stack Developer | B.Tech CSE @ SVCE Indore | Passionate about MERN Stack & Problem Solving*
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vishalpanwar67&label=Profile%20views&color=9400D3&style=plastic" alt="vishalpanwar67" />
+<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=VishalPanwar67.VishalPanwar67&"/> -->
 </p>
-
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **DSA & Game Development**
-
-- 👯 I’m looking to collaborate on **Find New Oppturtunities**
-
-- 🤝 I’m looking for help with **Internships**
-
-- 💬 Ask me about **Mongo DB ,Express js , React js ,Nodejs**
-
-- 📫 How to reach me **vishalpanwar410@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vishal-panwar-6ba11124a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal panwar" height="30" width="40" /></a>
-<a href="https://instagram.com/thakur_sa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakur_sa24" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/vishal4panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vishal4panwar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishal_panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishal_panwar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vishalpanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishalpanwar" height="30" width="40" /></a>
+  
 </p>
+I’m a B.Tech CSE student at <a href="https://vivekanandgroup.com/">SVCE Indore</a>, passionate about building innovative web solutions with MERN Stack to solve real-world challenges. I’m eager to collaborate on exciting projects!.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
- 
+- I’m interested in MERN Stack development, Problem Solving.
+- I’m looking to collaborate on WEB Development projects.
+- 📫 How to reach me vishalpanwar410@gmail.com
+
+## 🔗 Know more about me
+
+[![Linkedin](https://img.shields.io/badge/-vishalPanwar-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-panwar-6ba11124a/)
+[![geeksforgeeks](https://img.shields.io/badge/-vishalPanwar-black?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vishalpanwar)
+[![LeetCode](https://img.shields.io/badge/-vishalPanwar-black?style=for-the-badge&logo=Leetcode&logoColor=white)](https://www.leetcode.com/vishal_panwar)
+[![hackerrank](https://img.shields.io/badge/-vishalPanwar-black?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vishal4panwar)
+
+## 🔗 Github Analysis
+
+<p>
+<a href="https://github.com/VishalPanwar67">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishalPanwar67&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishalPanwar67&layout=compact&langs_count=8&theme=blue-green"/>
+</a>
 </p>
+<br/>
+<p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalPanwar67&"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalpanwar67&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="vishalpanwar67" /></p>
+## 🛠 Languages and Tools:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalpanwar67&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="vishalpanwar67" /></p>
+#### Languages:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalpanwar67&theme=vue" alt="vishalpanwar67" /></p>
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![c++](https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=c++&logoColor=white)
+
+#### Frontend:
+
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![tailwind](https://img.shields.io/badge/tailwindcss%20-%23563D7C.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### Backend:
+
+![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express)
+
+#### Database:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Others:
+
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code%20-%230070D1.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/postman%20-%23F24E1E.svg?&style=for-the-badge&logo=postman&logoColor=white)
+
+<br/>
